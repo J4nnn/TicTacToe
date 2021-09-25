@@ -1,3 +1,3 @@
 # TicTacToe
 
-Trabajo "final" de la U - Fundamentos de programaci
+Trabajo "final" de la U - Fundamentos de programación
