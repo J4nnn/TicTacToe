@@ -1,3 +1,3 @@
 # TicTacToe
 
-<h1>Tic Tac Toe</h1>
+Trabajo "final" de la U - Fundamentos de programaci
